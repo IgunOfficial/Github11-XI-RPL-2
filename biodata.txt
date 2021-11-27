@@ -1,0 +1,7 @@
+Nama    : Irfan Gunawan
+Kelas   : XI RPL 2
+Alamat  : Kp Cilisung Kulon
+Umur    : 16
+Sekolah : SMK Assalaam Bandung
+
+note : saya sedang belajar awalan github
